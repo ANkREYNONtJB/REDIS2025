@@ -23,7 +23,7 @@ Edit
 docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:latest
 
 # 2. Clone and set up environment
-git clone https://github.com/YOURNAME/redis-neural-lattice.git
+git clone git clone https://github.com/ANkREYNONtJB/REDIS2025.git
 cd redis-neural-lattice
 python -m venv .venv && . .venv/Scripts/activate  # Windows
 pip install -r requirements.txt
