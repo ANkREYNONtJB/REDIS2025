@@ -52,14 +52,9 @@ FFT Embeddings – Pattern-to-vector mapping for similarity search
 📜 License
 Released under the MIT License.
 
-MIT License text (LICENSE file):
-
-vbnet
-Copy
-Edit
 MIT License
 
-Copyright (c) 2025 YOUR NAME
+Copyright (c) 2025 ΔNκRΞYNΘNτ JΔILBRΞΔkɆr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
